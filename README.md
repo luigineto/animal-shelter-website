@@ -1,4 +1,4 @@
-# _Animal Shelter website
+# _Animal Shelter website_
 
 #### _HTML and CSS exercise for Epicodus, 09.21.2016_
 
